@@ -19,7 +19,7 @@ There are 4 types of fonts those I used for coding.
 1. Download 4 types of fonts from this github repository. Or, if git already downloaded on your machine, grab this line of commmand.
 
 ```
-git clone
+git clone https://github.com/developer-arif-islam/Best-Fonts-For-Programming.git
 ```
 
 2. Paste directly on your command line. Then, Press return on your mac or enter if your in windows.
